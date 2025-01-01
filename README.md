@@ -1,4 +1,12 @@
-# Autonomous Package Delivery Robot
+<h1 align="center">Autonomous Package Delivery Robot</h1>
+
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=i5FRlQ0tfMQ">
+        <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" align="center" />
+    </a>
+</p>
+
+<p align="center"><img width=50% alt="" src="/packagebot.jpg" /></p>
 
 An autonomous mail delivery system built on the **TurtleBot 3 Waffle Pi**, combining **Bayesian Localization**, **PID control**, and **ROS** for precise navigation and reliable delivery in a simulated hallway environment.
 
