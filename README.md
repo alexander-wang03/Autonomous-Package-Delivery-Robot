@@ -2,13 +2,6 @@
 
 An autonomous mail delivery system built on the **TurtleBot 3 Waffle Pi**, combining **Bayesian Localization**, **PID control**, and **ROS** for precise navigation and reliable delivery in a simulated hallway environment.
 
-## Overview
-
-This project demonstrates a robot's ability to autonomously navigate a closed-loop hallway, identify delivery points represented by colored patches, and execute precise delivery maneuvers. It integrates:
-- **Line-following navigation** using a PID controller.
-- **Bayesian Localization** for state estimation and environment mapping.
-- **Automated delivery mechanisms** to simulate package drop-offs at specified locations.
-
 ---
 
 ## Features
