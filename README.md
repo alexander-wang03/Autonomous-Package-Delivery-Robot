@@ -33,8 +33,6 @@ An autonomous mail delivery system built on the **TurtleBot 3 Waffle Pi**, combi
 5. **Real-Time Control**:
    - Utilizes ROS for seamless integration of hardware and software, including sensor processing and motor control.
 
----
-
 ## System Architecture
 
 ### Hardware
@@ -49,31 +47,6 @@ An autonomous mail delivery system built on the **TurtleBot 3 Waffle Pi**, combi
 - **Programming Languages**: Python (main logic), ROS (middleware)
 - **Control Algorithm**: PID controller
 - **Localization Algorithm**: Bayesian Localization
-
----
-
-## Setup and Usage
-
-### Prerequisites
-- TurtleBot 3 Waffle Pi with ROS installed.
-- Camera module properly mounted and configured.
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/AutonomousPackageDeliveryRobot.git
-   cd AutonomousPackageDeliveryRobot
-   ```
-2. Install the required ROS packages:
-   ```bash
-   sudo apt-get install ros-<distro>-turtlebot3 ros-<distro>-opencv
-   ```
-3. Launch the project:
-   ```bash
-   roslaunch package_delivery_robot delivery_system.launch
-   ```
-
----
 
 ## Documentation
 
